@@ -1,0 +1,5 @@
+{
+    "editor.unicodeHighlight.nonBasicASCII": true,
+    "terminal.integrated.shellIntegration.suggestEnabled": true,
+    "terminal.integrated.enableImages": true
+}
